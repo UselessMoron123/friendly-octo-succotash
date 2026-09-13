@@ -9076,7 +9076,7 @@
 	dynasty=1059025
 	religion="tengri_pagan"
 	culture="mongol"
-	father=248200
+	father=248204
 	trait=sympathy_pagans
 	1227.1.1={
 		birth=yes
@@ -9090,7 +9090,7 @@
 	dynasty=1059025
 	religion="sunni"
 	culture="mongol"
-	father=248201
+	father=248205
 	trait=sympathy_pagans
 	1261.1.1={
 		birth=yes
@@ -9105,7 +9105,7 @@
 	dynasty=1059025
 	religion="sunni"
 	culture="mongol"
-	father=248201
+	father=248205
 	trait=sympathy_pagans
 	1264.1.1={
 		birth=yes

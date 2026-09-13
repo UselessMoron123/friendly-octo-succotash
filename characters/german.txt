@@ -54504,7 +54504,7 @@
 		birth=yes
 	}
 	1236.1.1={
-		employer=330444 #Volkwin von Naumburg
+		employer=30444 #Volkwin von Naumburg
 	}
 	1236.9.22={
 		employer=30422 #Nikolaus von Nauen

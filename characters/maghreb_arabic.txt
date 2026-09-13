@@ -9774,7 +9774,7 @@
 	dynasty = 1069081
 	religion = shiite
 	culture = maghreb_arabic #tagelmust
-	father = 1144550
+	# father = 1144550 removed: dangling ID, no character 1144550 in history files
 	1060.1.1={
 		birth = yes
 	}

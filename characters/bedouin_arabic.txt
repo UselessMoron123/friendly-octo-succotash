@@ -12920,7 +12920,7 @@
 	dynasty=1060000
 	religion=sunni
 	culture=bedouin_arabic
-	father=291001
+	father=251000
 	774.1.1={
 		birth=yes
 	}
@@ -12934,7 +12934,7 @@
 	dynasty=1060000
 	religion=sunni
 	culture=bedouin_arabic
-	father=291002
+	father=251001
 	831.1.1={
 		birth=yes
 	}
@@ -12961,7 +12961,7 @@
 	dynasty=1060002
 	religion=sunni
 	culture=bedouin_arabic
-	father=291004
+	father=251003
 	770.1.1={
 		birth=yes
 	}
@@ -12975,7 +12975,7 @@
 	dynasty=1060002
 	religion=sunni
 	culture=bedouin_arabic
-	father=291005
+	father=251004
 	840.1.1={
 		birth=yes
 	}

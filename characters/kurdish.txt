@@ -2325,7 +2325,7 @@
 		death = yes
 	}
 }
-2601031 = {
+261031 = {
 	name = "Hasanwayh"
 	dynasty = 1062496
 	religion = sunni

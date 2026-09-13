@@ -7083,7 +7083,7 @@
 	culture="frankish"
 	trait="kind"
 	trait="thrifty_clerk"
-	father=213030
+	# father=213030 removed: dangling ID, no character 213030 in history files
 	1125.1.1 = {
 		birth="1125.1.1"
 	}

@@ -3421,7 +3421,7 @@
 	trait=adventurer
 	trait=tough_soldier
 	1220.1.1 = { birth=yes }
-	1246.1.1 = { employer = 1060080 }
+	# 1246.1.1 = { employer = 1060080 } removed: dangling employer ID, no character 1060080
 	1247.1.1 = {
 		add_spouse=248074
 		culture=panjabi

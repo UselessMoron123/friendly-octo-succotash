@@ -144,7 +144,7 @@
 	dynasty=1060028 #Daura
 	religion="west_african_pagan"
 	culture="hausa"
-	father=1228658
+	father=251193
 	1066.1.1 = {
 		birth=yes
 	}
